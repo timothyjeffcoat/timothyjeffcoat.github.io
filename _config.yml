@@ -1,0 +1,14 @@
+title: Timothy Jeffcoat
+email: timjeffcoat@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Full Stack AWS developer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jeffcoat.net" # the base hostname & protocol for your site
+theme: minima
+plugins:
+  - jekyll-feed
+
+future: true # Include future-dated posts
+
+# Build settings
+markdown: kramdown
