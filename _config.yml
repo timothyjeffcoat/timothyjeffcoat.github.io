@@ -1,8 +1,0 @@
-# Site settings
-title: Timothy Jeffcoat
-email: tim@jeffcoat.net
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://timothyjeffcoat.github.io" # the base hostname & protocol for your site
-github_username:  timothyjeffcoat
-# Build settings
-markdown: kramdown
