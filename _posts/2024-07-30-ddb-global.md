@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Global Region-Specific Document Hosting with AWS - Ensuring Data Isolation and Compliance
+title: Global Region-Specific Document Hosting with AWS - Ensuring Data Isolation and GDPR Compliance
 ---
 
 {{ page.title }}
