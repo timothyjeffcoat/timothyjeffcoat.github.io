@@ -1,12 +1,19 @@
-# This is the data for my blog
+# Hi, I'm Timothy Jeffcoat! 👋  
 
+🚀 **Senior Software Engineer | Cloud & AI Enthusiast**  
+💡 Passionate about scalable web applications, AI/ML, and DevOps  
+🌍 AWS, Terraform, Node.js, React.js  
 
-## License
+## 🔹 About Me  
+- 🏆 19+ years in software development  
+- ☁️ Cloud expertise in AWS, serverless, and infrastructure as code  
+- 🤖 Exploring AI/ML applications in production  
 
-The following directories and their contents are Copyright Timothy Jeffcoat.
-You may not reuse anything therein without my permission:
+## 🔹 Technologies & Tools  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  
 
-* \_posts/
-* images/
-
-All other directories and files are MIT Licensed.
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TimothyJeffcoat-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/timothyjeffcoat)  
+[![GitHub](https://img.shields.io/badge/GitHub-timothyjeffcoat-lightgrey?style=flat&logo=github)](https://github.com/timothyjeffcoat)  
